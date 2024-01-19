@@ -1,4 +1,6 @@
-﻿using Risk.Banking.EvaluationEngine.Contracts;
+﻿// This is the aggregae entry point class
+
+using Risk.Banking.EvaluationEngine.Contracts;
 using Risk.Banking.EvaluationEngine.Definitions;
 
 namespace Risk.Banking.EvaluationEngine.Domain

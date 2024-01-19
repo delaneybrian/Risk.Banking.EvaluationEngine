@@ -1,4 +1,6 @@
-﻿namespace Risk.Banking.EvaluationEngine.Domain
+﻿//This is a Value Object -> Contains logic but two value objects are essentially the same things 
+
+namespace Risk.Banking.EvaluationEngine.Domain
 {
     public class BankBalance : IEquatable<BankBalance>
     {

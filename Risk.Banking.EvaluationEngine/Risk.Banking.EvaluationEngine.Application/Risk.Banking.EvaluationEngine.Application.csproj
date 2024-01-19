@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+  <!-- The app layer ties our domain and infra layers together through abstractions-->
     <ProjectReference Include="..\Risk.Banking.EvaluationEngine.Contracts\Risk.Banking.EvaluationEngine.Contracts.csproj" />
     <ProjectReference Include="..\Risk.Banking.EvaluationEngine.Definitions\Risk.Banking.EvaluationEngine.Definitions.csproj" />
     <ProjectReference Include="..\Risk.Banking.EvaluationEngine.Interfaces\Risk.Banking.EvaluationEngine.Interfaces.csproj" />

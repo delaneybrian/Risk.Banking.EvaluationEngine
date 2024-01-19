@@ -1,4 +1,6 @@
-﻿using Risk.Banking.EvaluationEngine.Definitions;
+﻿//This is an entity -> An important object that links to a real world object
+
+using Risk.Banking.EvaluationEngine.Definitions;
 
 namespace Risk.Banking.EvaluationEngine.Domain
 {

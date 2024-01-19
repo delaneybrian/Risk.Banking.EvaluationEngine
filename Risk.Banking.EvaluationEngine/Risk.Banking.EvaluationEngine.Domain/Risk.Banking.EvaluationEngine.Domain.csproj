@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!--These are really just PODs Plain old data classes and should have no logic. Note we have no reference to infrasctuecture or application assemblies or any 3rd party SDKs -->
     <ProjectReference Include="..\Risk.Banking.EvaluationEngine.Contracts\Risk.Banking.EvaluationEngine.Contracts.csproj" />
     <ProjectReference Include="..\Risk.Banking.EvaluationEngine.Definitions\Risk.Banking.EvaluationEngine.Definitions.csproj" />
   </ItemGroup>
